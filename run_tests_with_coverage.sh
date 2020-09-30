@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-. ~/venv/bin/activate
+#. ~/venv/bin/activate
 
 rm -f pep8.log pyflakes.log
 
